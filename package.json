@@ -1,8 +1,8 @@
 {
-  "name": "realtime-multiplayer-in-html5",
-  "author" : "Sven Bergström",
-  "description": "An article and demo explaining how multiplayer games work, with a demo in HTML5 using socket.io, node.js and canvas.",
-  "license": "MIT",
+  "name": "multiplayer-game-demo",
+  "author" : "Yongtao Wang",
+  "description": "Simple multiplayer online game, with a demo in HTML5 using socket.io, node.js and canvas.",
+  "license": "ME",
   "version": "1.0.0",
   "dependencies": {
     "express": "3.3.x",

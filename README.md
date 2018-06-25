@@ -19,7 +19,7 @@ An example using node.js, socket.io and HTML5 Canvas to explain and demonstrate 
 
 * Get node.js
 * Install socket.io `npm install socket.io`
-* Install node-udid `npm install node-uuid`
+* Install node-uuid `npm install node-uuid`
 * Install express `npm install express`
 * Run `node app.js` inside the cloned folder
 * Visit http://127.0.0.1:4004/?debug
@@ -27,5 +27,7 @@ An example using node.js, socket.io and HTML5 Canvas to explain and demonstrate 
 ## License
 
 MIT Licensed. 
-See LICENSE if required.
+Originally by Sven Bergström
+
+Edited by Yongtao Wang
 
