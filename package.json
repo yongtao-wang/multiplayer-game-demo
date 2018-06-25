@@ -1,13 +1,18 @@
 {
   "name": "multiplayer-game-demo",
-  "author" : "Yongtao Wang",
+  "author": "Yongtao Wang",
   "description": "Simple multiplayer online game, with a demo in HTML5 using socket.io, node.js and canvas.",
-  "license": "ME",
+  "license": "MIT",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yongtao-wang/multiplayer-game-demo.git"
+  },
   "dependencies": {
-    "express": "3.3.x",
-    "socket.io": "0.9.x",
-    "node-uuid": "1.3.3"
+    "express": "^3.3.8",
+    "node-uuid": "1.3.3",
+    "npm": "^6.1.0",
+    "socket.io": "0.9.x"
   },
   "engine": {
     "node": "0.10.x"
